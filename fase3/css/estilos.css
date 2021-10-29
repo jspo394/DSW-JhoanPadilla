@@ -2,7 +2,13 @@ header{
 
     background-color: #316B83;
     font: condensed 120% sans-serif;
+    color: #D5BFBF;
 }
+
+.subtitle {
+    float: left;
+  } 
+
 nav{
     background-color: #6D8299;
     font: condensed 120% sans-serif;
@@ -36,7 +42,7 @@ nav a{
             
 nav li{
       display:inline-block;
-      width:250px;
+      width:200px;
       height:30px;
       padding:5px 10px;
       background-color:#6D8299;
